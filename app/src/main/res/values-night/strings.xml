@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Video to Server App</string>
     <string name="record_video">Record Video</string>
     <string name="capture_image">Capture Image</string>
 </resources>
